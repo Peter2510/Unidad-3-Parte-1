@@ -1,10 +1,14 @@
 Algoritmo Ejercicio12
 	
-	Escribir  " Ingrese la temperatura en grados Celsius a convertir a Fahrenheit "
-	leer temperatura
-	
-	fahrenheit = (temperatura * 9/5) + 32
-	
-	Escribir  " Los " , temperatura , " grados Celsius equivalen a " , fahrenheit , " grados Fahrenheit "
-	
+	Escribir "Ingrese el radio del cilindro"
+	leer radio
+	Si radio > 0 Entonces
+		
+		Escribir" Ingrese la altura del cilindro "
+		leer altura
+		
+		
+	SiNo
+		Escribir "Ingrese un radio positivo"
+	Fin Si
 FinAlgoritmo
