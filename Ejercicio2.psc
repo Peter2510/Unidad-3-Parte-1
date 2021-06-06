@@ -8,4 +8,6 @@ Algoritmo Ejercicio2
 	
     Leer pais	
 	
+    Escribir  capital " es la capital de ", pais
+	
 FinAlgoritmo
