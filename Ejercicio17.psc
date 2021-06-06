@@ -15,10 +15,19 @@ Algoritmo Ejercicio17
 		Si lado1 = lado2 Entonces
 			Escribir  "El triangulo es isoceles"
 		SiNo
-			
+			Si lado1 = lado3 Entonces
+				Escribir  "El triangulo es isoceles"
+			SiNo
+				Si lado2 = lado3 Entonces
+					Escribir  "El triangulo es isoceles"
+				SiNo
+					Escribir "El triangulo es escaleno"
+				Fin Si
+			Fin Si
 		Fin Si
 	Fin Si
-
-
+	
+	
 	
 FinAlgoritmo
+
