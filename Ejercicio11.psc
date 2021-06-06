@@ -8,5 +8,6 @@ Algoritmo Ejercicio11
 	pies = longitudIn/30.48
 	pulgadas = longitudIn/2.54
 
+	Escribir "Los ", longitudIn, " cm ingresados corresponde a ", yardas, " yardas, a ", metros, " metros, a ", pies, " pies y a ", pulgadas, " pulgadas"
 	
 FinAlgoritmo
