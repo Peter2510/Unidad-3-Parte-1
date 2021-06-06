@@ -5,5 +5,6 @@ Algoritmo Ejercicio13
 	
 	fahrenheit = (temperatura * 9/5) + 32
 	
+	Escribir " Los " , temperatura , " grados Celsius equivalen a " , fahrenheit , " grados Fahrenheit"
 	
 FinAlgoritmo
