@@ -5,5 +5,7 @@ Algoritmo Ejercicio5
     Leer numero
 	
     siguiente = numero + 1
+	
+	Escribir "El numero siguiente a ", numero, " es ", siguiente 
 
 FinAlgoritmo
