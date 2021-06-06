@@ -5,6 +5,9 @@ Algoritmo Ejercicio4
     Leer numero
 	
     cuadrado = numero * numero
-    
+	
+	cubo = numero * numero * numero 
+	
+    Escribir "El cuadrado de ", numero, "es ", cuadrado, "y el cubo del numero es", cubo
 
 FinAlgoritmo
