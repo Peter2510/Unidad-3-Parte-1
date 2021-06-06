@@ -7,9 +7,9 @@ Algoritmo Ejercicio15
 		Escribir "El numero es positivo"
 	SiNo
 		Si numero1 = 0 Entonces
-			Escribir rbir " El numero es nulo"
+			Escribir " El numero es nulo"
 		SiNo
-			
+			Escribir  "El numero es negativo"
 		Fin Si
 	Fin Si
 	
