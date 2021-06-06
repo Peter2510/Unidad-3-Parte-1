@@ -13,10 +13,14 @@ Algoritmo Ejercicio16
 		Si numero1 > numero3 Entonces
 			Escribir "El mayor de los numeros ingresados es: ", numero1
 		SiNo
-			
+			Escribir  "El mayor de los numeros ingresados es: ", numero3
 		Fin Si
 	SiNo
-		
+		Si numero2 > numero3 Entonces
+			Escribir  "El mayor de los numeros ingresados es: ", numero2
+		SiNo
+			Escribir  "El mayor de los numeros ingresados es: ", numero3
+		Fin Si
 	Fin Si
 
 
