@@ -12,6 +12,12 @@ Algoritmo Ejercicio20
 		D = Subcadena(convertir,4,4)
 		E = Subcadena(convertir,5,5)
 		
+		Si A=E y B=D  Entonces
+			Escribir "El numero es capicua"
+		SiNo
+			Escribir "El numero no es capicua"
+		Fin Si
+
 	SiNo
 		Escribir "Ingrese un numero de 5 digitos"
 	Fin Si
