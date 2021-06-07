@@ -4,7 +4,14 @@ Algoritmo Ejercicio20
 	leer Num
 	
 	Si Num > 9999 & N < 100000  Entonces
-		Escribir "ola"
+	
+		convertir = ConvertirATexto(Num)
+		A = Subcadena(convertir,0,1)
+		B = Subcadena(convertir,2,2)
+		C = Subcadena(convertir,3,3)
+		D = Subcadena(convertir,4,4)
+		E = Subcadena(convertir,5,5)
+		
 	SiNo
 		Escribir "Ingrese un numero de 5 digitos"
 	Fin Si
