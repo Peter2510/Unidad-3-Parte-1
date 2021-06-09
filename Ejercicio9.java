@@ -36,7 +36,7 @@ public class Ejercicio9{
 		//salto de linea
 		System.out.println("\n");
 
-		//mostrar numero aumentado en 30%
+		//mostrar palabras
 		System.out.println("La primera palabra era " + auxiliar + " ahora es " + palabra2 + " la palabra 2 era" + palabra2 + " ahora es: " + auxiliar );
 
 
